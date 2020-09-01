@@ -4,11 +4,11 @@ This repository acts as a central hub of all of my personal resources to be used
 
 For more information or with questions about the curriculum, ask [The Flatiron School](http://flatironschool.com/).
 
-## Phase 1
+## [Phase 1](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/Phase1)
 
-## Phase 2
+## [Phase 2](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/Phase2)
 
-## Phase 3
+## [Phase 3](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/Phase3)
 
 ## [Phase 4](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/Phase4)
 
