@@ -10,6 +10,6 @@ For more information or with questions about the curriculum, ask [The Flatiron S
 
 ## Phase 3
 
-## Phase 4
+## [Phase 4](https://github.com/lindseyberlin/ds-lesson-hub/tree/master/Phase4)
 
 ## Et Cetera
