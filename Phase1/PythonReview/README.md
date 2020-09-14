@@ -17,6 +17,8 @@ Some new things we're bringing up that weren't covered in Bootcamp Prep:
 - Using f-strings or .format() to print readable code with variables
 - Using .zip() to combine two lists into a dictionary
 
+## Instructions
+
 In order to do this review notebook, you will need to follow the below steps:
 
 1. Fork this repo.
