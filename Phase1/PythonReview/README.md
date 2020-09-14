@@ -19,10 +19,10 @@ Some new things we're bringing up that weren't covered in Bootcamp Prep:
 
 In order to do this review notebook, you will need to follow the below steps:
 
-(If these steps seem very foreign, wait until we cover Git/Github and the Terminal before trying to do this review!)
-
 1. Fork this repo.
 2. Clone your fork.
 3. Open up the Jupyter Notebook and try it out! 
+
+(If these steps seem very foreign, wait until we cover Git/Github and the Terminal before trying to do this review!)
 
 ![Monty Python 'and there was much rejoicing' gif from Giphy](https://media.giphy.com/media/WIg8P0VNpgH8Q/giphy.gif)
