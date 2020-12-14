@@ -1,6 +1,9 @@
 # API keys document in phase 1
 Phase1/APIsPractice02/keys.py
 
+# Huge dataset for sampling
+Phase2/CLT-ConfidenceIntervals/switrs.sqlite
+
 # Mac DS_Store
 .DS_Store
 
