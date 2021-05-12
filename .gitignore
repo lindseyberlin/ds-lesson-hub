@@ -7,6 +7,9 @@ Phase2/CLT-ConfidenceIntervals/switrs.sqlite
 # Huge dataset for time series
 Phase4/TimeSeriesModels/data/bitstampUSD_1-min_data_2012-01-01_to_2021-03-31.csv
 
+# GloVe Embeddings files
+glove.6B.50d.txt
+
 # Mac DS_Store
 .DS_Store
 
